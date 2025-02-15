@@ -1,0 +1,106 @@
+Ongoing - Creating Grass/Path Tileset
+Ongoing - Creating Interior Tileset (Walls, Decorations, Furniture)
+Ongoing - Creating Buildings Tileset (Homes, Bank, etc.)
+Ongoing - Creating Decoration Tileset (Flowers, Rocks, Grass)
+
+4/7  - Player Movements:
+		Basic WASD,
+		Dash Ability,
+		Bonk, 
+		Sprite Animation,
+		Tile Collision
+		
+4/8  - Constructing Player States,
+		Pausing
+		
+4/9  - Camera/Screenshake Effect
+
+4/10 - Text Boxes:
+		Basic Text Box,
+		Queueing, 
+		Dialogue Responses
+		
+		Entities: 
+		Signs, 
+		NPCs
+
+4/11 - Shadows
+		Z-Height Functionality
+		
+4/12 - Player Attacks:
+		Sprite Animation 
+		Functionality
+		Attack Collision Detection:
+		Hitboxes 
+		Shader
+
+4/13 - Entity Collision
+4/14 - Entity Fragments
+4/15 - Room Transitions
+4/16 - Lifting Objects
+4/16 - Throwing Objects
+4/17 - Improved Interaction (Bug Fixes / Cleanup / Overall Optimization)
+
+
+4/20 - Enemy Basics
+
+4/21 - Enemy Chasing,
+		Enemy Attacks,
+		
+4/22 - Damaging Enemy,
+		Enemy Death
+
+		Displaying Health,
+		Damaging Player
+		Player Death
+		
+4/23 - Set up Quests: 
+			Quest Initialization,
+			Quest Status Check,
+			Quest Completion Logic
+		
+		The Cat Quest:
+			Cat Object and Sprites
+			Girl Object and Sprites
+			
+4/24 - Items:
+			Coin, Gems (Blue, Red, Green), Soul Orb, Scroll, Heart, Health Potion, Sword
+			
+		NPC Sprites:
+			Armorer, Blacksmith, Barman, Dark Merchant, Gravedigger, InnKeeper, lilGirl
+			
+		Bombs (Basic Functionality)
+		UI: Gems, Items
+		
+4/25 - Using Equipped Items, 
+		Item Drops
+
+4/26 - Equipment Cycling
+		Using Bow and Arrows
+		Using Hookshot
+		Voidwing Enemy
+		
+4/27 - Pots / Rocks
+4/28 - Item Shops
+4/29 - Boss Logic and Sprite
+4/30 - Boss Room
+4/31 - Kingdom of Cats
+5/1 - More Items (Iron Arrows, Dynamite), work on NPCs
+5/2 - Saving & Loading
+5/3 - Menu Screen and Pause Screen
+5/4 - Polishing and BUg fixing
+
+///// TODO ////////
+
+Item Shops
+Building Interiors
+
+Last:
+	Saving & Loading Game
+	Pause/Start/End Menu
+	Credits 
+	MC Music
+	Sound Effects
+	Day/Night Cycle (shader)
+	
+BossMusic - Vampire Killer (Castlevania)

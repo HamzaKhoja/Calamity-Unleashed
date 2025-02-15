@@ -1,0 +1,63 @@
+
+#macro FRAME_RATE 60
+#macro TILE_SIZE 16
+	
+#macro CARDINAL_DIR round(direction/90)
+#macro CARDINAL_DIR8 round(direction/45)
+
+#macro ROOM_START rmTitle
+	
+#macro RESOLUTION_W 640
+#macro RESOLUTION_H 360
+	
+#macro TRANSITION_SPEED	0.015
+#macro OUT 0
+#macro IN 1
+	
+#macro ARROW_DAMAGE_1 5
+#macro ARROW_DAMAGE_2 15
+	
+	
+	
+	
+	
+	
+enum ENEMY_STATE
+{
+	IDLE,
+	WANDER,
+	CHASE,
+	ATTACK,
+	HURT,
+	DIE,
+	WAIT
+}
+	
+enum CAT_STATE
+{
+	IDLE,
+	WANDER,
+	SIT,
+	SLEEP,
+	JUMP,
+	WAIT
+}
+	
+enum ITEM
+{
+	SWORD,
+	BOW1,
+	BOMB,
+	HOOKSHOT,
+	DYNAMITE,
+	BOW2,
+	TYPE_COUNT
+}
+	
+enum HOOKSTATUS
+{
+	EXTENDING,
+	PULLTOPLAYER,
+	PULLTOENTITY,
+	MISSED
+}

@@ -1,0 +1,28 @@
+TP stones
+
+Rooms:
+Graveyard
+Town Square
+Ship Docks
+Enchanted forest
+Jail
+
+The Ancient Ruins - An ancient temple that has long been abandoned, filled with ancient artifacts and puzzles to solve.
+
+The Sewers - A network of underground tunnels that run beneath the town, infested with dangerous creatures and filled with hidden treasures.
+
+The Wizard's Tower - A towering spire that reaches high above the town, where a powerful wizard resides. It's rumored that he possesses a powerful magic that could aid in defeating the sorcerer.
+
+The Harbor - A bustling port town where sailors and traders come to dock their ships. It's a hub of commerce and adventure, where the player can find quests and items to aid them in their journey.
+
+The Library - A grand library filled with ancient tomes and arcane knowledge. The player can research spells and incantations that may aid them in their quest to defeat the sorcerer.
+
+
+Quests:
+Help a local blacksmith collect rare metals and ores to forge a legendary sword.
+Investigate a series of disappearances in the town and track down the culprit responsible.
+Rescue a group of hostages taken by bandits in the Abandoned Mine.
+Collect rare herbs and ingredients in the forest to help a local healer create a powerful potion to cure a sickness that has befallen the town.
+Investigate a series of strange occurrences in the market and uncover a secret organization behind them.
+Track down a thief who has been stealing from the market and bring them to justice.
+Find and retrieve a rare flower that can only be found deep in the catacombs, and use it to create a powerful potion that can aid in the fight against the sorcerer.

@@ -1,0 +1,43 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oBehemoth",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
+  "managed": true,
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"oParentEnemy","path":"objects/oParentEnemy/oParentEnemy.yy",},"propertyId":{"name":"enemySpeed","path":"objects/oParentEnemy/oParentEnemy.yy",},"value":"1.5",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"oParentEnemy","path":"objects/oParentEnemy/oParentEnemy.yy",},"propertyId":{"name":"enemyAgroRadius","path":"objects/oParentEnemy/oParentEnemy.yy",},"value":"100",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"oParentEnemy","path":"objects/oParentEnemy/oParentEnemy.yy",},"propertyId":{"name":"enemyWanderDistance","path":"objects/oParentEnemy/oParentEnemy.yy",},"value":"72",},
+  ],
+  "parent": {
+    "name": "Enemies",
+    "path": "folders/Objects/Enemies.yy",
+  },
+  "parentObjectId": {
+    "name": "oParentEnemy",
+    "path": "objects/oParentEnemy/oParentEnemy.yy",
+  },
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [],
+  "physicsStartAwake": true,
+  "properties": [],
+  "solid": false,
+  "spriteId": {
+    "name": "BehemothMove",
+    "path": "sprites/BehemothMove/BehemothMove.yy",
+  },
+  "spriteMaskId": null,
+  "visible": true,
+}

@@ -1,0 +1,6 @@
+function playerStateTransition(){
+	playerCollision();
+	playerAnimateSprite();
+	
+	
+}
